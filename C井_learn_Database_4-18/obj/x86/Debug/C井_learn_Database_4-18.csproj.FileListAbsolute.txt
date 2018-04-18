@@ -1,0 +1,10 @@
+F:\1-K\VS2010-Projects\C井_learn_Database_4-18\C井_learn_Database_4-18\bin\Debug\C井_learn_Database_4-18.exe
+F:\1-K\VS2010-Projects\C井_learn_Database_4-18\C井_learn_Database_4-18\bin\Debug\C井_learn_Database_4-18.pdb
+F:\1-K\VS2010-Projects\C井_learn_Database_4-18\C井_learn_Database_4-18\obj\x86\Debug\Interop.ADODB.dll
+F:\1-K\VS2010-Projects\C井_learn_Database_4-18\C井_learn_Database_4-18\obj\x86\Debug\Interop.ADOX.dll
+F:\1-K\VS2010-Projects\C井_learn_Database_4-18\C井_learn_Database_4-18\obj\x86\Debug\C井_learn_Database_4-18.csproj.ResolveComReference.cache
+F:\1-K\VS2010-Projects\C井_learn_Database_4-18\C井_learn_Database_4-18\obj\x86\Debug\C井_learn_Database_4_18.Form1.resources
+F:\1-K\VS2010-Projects\C井_learn_Database_4-18\C井_learn_Database_4-18\obj\x86\Debug\C井_learn_Database_4_18.Properties.Resources.resources
+F:\1-K\VS2010-Projects\C井_learn_Database_4-18\C井_learn_Database_4-18\obj\x86\Debug\C井_learn_Database_4-18.csproj.GenerateResource.Cache
+F:\1-K\VS2010-Projects\C井_learn_Database_4-18\C井_learn_Database_4-18\obj\x86\Debug\C井_learn_Database_4-18.exe
+F:\1-K\VS2010-Projects\C井_learn_Database_4-18\C井_learn_Database_4-18\obj\x86\Debug\C井_learn_Database_4-18.pdb
